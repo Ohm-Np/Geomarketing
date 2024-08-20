@@ -9,3 +9,5 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+- [Store Location Optimization](Store_Location_Optimization.html)
