@@ -1,6 +1,6 @@
 # Geomarketing
 
-A [workflowr][] project.
+Find the [webpage](https://ohm-np.github.io/Geomarketing/) here.
 
 [workflowr]: https://ohm-np.github.io/Geomarketing/
 
