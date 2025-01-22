@@ -6,7 +6,7 @@ Find the [webpage](https://ohm-np.github.io/Geomarketing/) here.
 
 # Geomarketing
 
-Geomarketing is a marketing strategy that involves the integration of geographic information into marketing efforts to make data-driven decisions. It leverages geographic data, such as location, demographic information, and regional behavior patterns, to optimize marketing strategies, target specific audiences, and enhance decision-making processes.
+Geomarketing is a strategy that integrates geographic information into marketing efforts to enable data-driven decisions. It utilizes location data, demographics, and regional behavior patterns to optimize strategies, target specific audiences, and improve decision-making.
 
 # Key Components of Geomarketing:
 
